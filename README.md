@@ -36,7 +36,10 @@ After that, you should be good to go.
 
 To start using ImmuneLite, go to the immunelite-static directory, then use the following command:
 
+```jsx
+python3 main.py /path/to/your/contract.sol
 
+```
 
 ## Detectors
 
