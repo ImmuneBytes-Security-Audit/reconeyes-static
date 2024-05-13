@@ -24,15 +24,19 @@ First, clone the repository into your local machine:
 git clone https://github.com/ImmuneBytes-Security-Audit/immunelite-static
 ```
 
-You will need to have Python 3.7+ installed on your machine. 
+You will need to have Python 3.7+ installed on your machine. ImmuneLite also uses solidity_parser, termcolor, shutil, os, pprint and solcx python packages. You can install the packages using pip.
 
 ```jsx
+pip install <package name>
 
 ```
+After that, you should be good to go.
 
 ## Using ImmuneLite
 
-After installing ImmuneLite, you can start using it straight away, for example
+To start using ImmuneLite, go to the immunelite-static directory, then use the following command:
+
+
 
 ## Detectors
 
