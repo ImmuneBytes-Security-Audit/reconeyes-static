@@ -1,8 +1,7 @@
 # ImmuneLite - a static analyzer for Solidity smart contracts
-
 ---
 
-![logo.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d8c57a43-51f3-4097-bb4d-69d0b2b4038d/75f12256-d142-4567-b543-fb8407213c01/logo.png)
+![logo.png](https://github.com/ImmuneBytes-Security-Audit/immunelite-static/blob/main/logo.png)
 
 ImmuneLite is a static analysis tool designed to detect vulnerabilities in Solidity smart contracts. With a focus on security, ImmuneLite aims to provide developers and auditors with a reliable means of identifying potential risks in their smart contracts.
 
