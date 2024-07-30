@@ -3,7 +3,7 @@
 
 
 <div align="center"> <br><br>
-  <img src="https://github.com/ImmuneBytes-Security-Audit/reconeyes-static/blob/main/black reconeyes logo.svg" alt="Logo"><br><br>
+  <img src="https://github.com/ImmuneBytes-Security-Audit/reconeyes-static/blob/main/logo_black.jpg" alt="Logo"><br><br>
 </div>
 
 
