@@ -1,8 +1,12 @@
 # Reconeyes - a static analyzer for Solidity smart contracts
 
-<div align="center">
-  <img src="https://github.com/ImmuneBytes-Security-Audit/reconeyes-static/blob/main/logo_black.png" alt="Logo">
+
+
+<div align="center"> <br><br>
+  <img src="https://github.com/ImmuneBytes-Security-Audit/reconeyes-static/blob/main/logo_black.png" alt="Logo"><br><br>
 </div>
+
+
 
 Reconeyes is a static analysis tool designed to detect vulnerabilities in Solidity smart contracts. With a focus on security, Reconeyes aims to provide developers and auditors with a reliable means of identifying potential risks in their smart contracts.
 
